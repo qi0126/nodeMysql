@@ -1,1 +1,3 @@
-# nodeMysql
+Node持久化MySql操作增删改查
+
+原生sql和做增删改查接口
